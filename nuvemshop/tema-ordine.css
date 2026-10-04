@@ -1,0 +1,141 @@
+/* Ordiné — CSS personalizado para a Nuvemshop (tema Morelia)
+   Colar em: Design > Personalizar > CSS personalizado (o nome do menu pode variar).
+   Escrito sem ver a loja: os seletores são genéricos. Se algo não pegar, ajuste ou
+   me diga o que ficou diferente. Hex da paleta ainda não confirmados. */
+
+@import url("https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;500;600&family=Montserrat:wght@300;400;500;600&display=swap");
+
+:root {
+  --ord-offwhite: #F5F1EA;
+  --ord-areia:    #E4D9C7;
+  --ord-greige:   #B8AD9C;
+  --ord-chocolate:#4A3B2F;
+  --ord-preto:    #2B2622;
+  --ord-rose:     #D9B8AC;
+  --ord-titulo: "Cormorant Garamond", Georgia, serif;
+  --ord-corpo:  "Montserrat", Arial, sans-serif;
+}
+
+/* Base */
+html, body {
+  background-color: var(--ord-offwhite) !important;
+  color: var(--ord-preto);
+  font-family: var(--ord-corpo);
+  font-weight: 400;
+  -webkit-font-smoothing: antialiased;
+}
+p, li, span, label, input, select, textarea, button {
+  font-family: var(--ord-corpo);
+}
+a { color: var(--ord-chocolate); }
+a:hover { color: var(--ord-preto); }
+
+/* Títulos */
+h1, h2, h3, h4, h5, h6,
+.h1, .h2, .h3, .h4, .h5, .h6,
+.section-title, .page-title, .product-name, .item-name {
+  font-family: var(--ord-titulo) !important;
+  font-weight: 500;
+  letter-spacing: 0.01em;
+  color: var(--ord-preto);
+}
+h1, .h1 { font-size: 2.4rem; line-height: 1.15; }
+h2, .h2 { font-size: 1.9rem; line-height: 1.2; }
+
+/* Cabeçalho e rodapé */
+header, .header, .js-head-main, .head-main {
+  background-color: var(--ord-offwhite) !important;
+  border-bottom: 1px solid var(--ord-areia);
+}
+header a, .header a { color: var(--ord-preto); }
+footer, .footer, .js-footer {
+  background-color: var(--ord-areia) !important;
+  color: var(--ord-chocolate);
+}
+footer a, .footer a { color: var(--ord-chocolate); }
+footer a:hover, .footer a:hover { color: var(--ord-preto); }
+
+/* Faixa de anúncio (se o tema tiver) */
+.js-announcement-bar, .announcement-bar, .top-bar {
+  background-color: var(--ord-chocolate) !important;
+  color: var(--ord-offwhite) !important;
+  font-size: 0.78rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+/* Seções alternadas */
+.section-alt, .bg-secondary, .section-featured {
+  background-color: var(--ord-areia) !important;
+}
+
+/* Botões */
+.btn, .btn-primary, button[type="submit"], input[type="submit"],
+.js-addtocart, .btn-add-to-cart {
+  background-color: var(--ord-preto) !important;
+  border: 1px solid var(--ord-preto) !important;
+  color: var(--ord-offwhite) !important;
+  border-radius: 2px;
+  font-family: var(--ord-corpo);
+  font-weight: 500;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  transition: background-color .2s ease, color .2s ease;
+}
+.btn:hover, .btn-primary:hover, button[type="submit"]:hover,
+input[type="submit"]:hover, .js-addtocart:hover, .btn-add-to-cart:hover {
+  background-color: var(--ord-chocolate) !important;
+  border-color: var(--ord-chocolate) !important;
+  color: var(--ord-offwhite) !important;
+}
+.btn-secondary, .btn-default, .btn-outline {
+  background-color: transparent !important;
+  color: var(--ord-preto) !important;
+  border: 1px solid var(--ord-preto) !important;
+}
+
+/* Preços e etiquetas */
+.price, .item-price, .js-price-display, .product-price {
+  color: var(--ord-chocolate);
+  font-weight: 500;
+}
+.price-compare, .js-compare-price-display { color: var(--ord-greige); }
+.label, .badge, .label-accent, .tag {
+  background-color: var(--ord-rose) !important;
+  color: var(--ord-preto) !important;
+  border-radius: 2px;
+  letter-spacing: 0.06em;
+}
+
+/* Cards de produto: fotos limpas, sem sombra pesada */
+.item, .item-product, .product-item, .card {
+  background-color: transparent;
+  border: 0;
+  box-shadow: none;
+}
+.item img, .item-product img, .product-item img { border-radius: 2px; }
+
+/* Formulários */
+input[type="text"], input[type="email"], input[type="tel"],
+input[type="search"], input[type="password"], select, textarea, .form-control {
+  background-color: #fff;
+  border: 1px solid var(--ord-greige);
+  border-radius: 2px;
+  color: var(--ord-preto);
+}
+input:focus, select:focus, textarea:focus, .form-control:focus {
+  border-color: var(--ord-chocolate);
+  box-shadow: 0 0 0 2px rgba(217, 184, 172, 0.5);
+  outline: none;
+}
+
+/* Variações (cor e tamanho) */
+.js-insta-variants, .variant-label, .form-label {
+  color: var(--ord-chocolate);
+  font-size: 0.85rem;
+  letter-spacing: 0.04em;
+}
+
+/* Detalhes */
+hr { border-color: var(--ord-areia); }
+::selection { background: var(--ord-rose); color: var(--ord-preto); }
