@@ -1,1 +1,69 @@
-﻿Identificador URL;Nome;Categorias;Nome da variação 1;Valor da variação 1;Nome da variação 2;Valor da variação 2;Nome da variação 3;Valor da variação 3;Preço;Preço promocional;Peso (kg);Altura (cm);Largura (cm);Comprimento (cm);Estoque;SKU;Código de barras;Exibir na loja;Frete gratis;Descrição;Tags;Título para SEO;Descrição para SEO;Marca;Produto Físico;MPN (Cód. Exclusivo Modelo Fabricante);Sexo;Faixa etária;Custo
+﻿Identificador URL;Nome;Categorias;Nome da variação 1;Valor da variação 1;Nome da variação 2;Valor da variação 2;Nome da variação 3;Valor da variação 3;Preço;Preço promocional;Peso (kg);Altura (cm);Largura (cm);Comprimento (cm);Estoque;SKU;Código de barras;Exibir na loja;Frete gratis;Descrição;Tags;Título para SEO;Descrição para SEO;Marca;Produto Físico;MPN (Cód. Exclusivo Modelo Fabricante);Sexo;Faixa etária;Custo;Visibilidade
+top-isa;Top Isa;Coleção 01 > Tops;Cor;Preto;Tamanho;P;;;79.90;;0.099;;;;1;TOPISA-PRET-P;;SIM;NÃO;<p>Top de alças largas, conforto pra rotina inteira.</p><p>Alças largas que não marcam nem escorregam. Pensado pra acompanhar o treino e o resto do dia, sem cerimônia.</p>;;Top Isa — Ordiné;Top de alças largas, conforto pra rotina inteira.;Ordiné;SIM;;Feminino;Adulto;34.95;Visível
+top-isa;;;Cor;Preto;Tamanho;M;;;79.90;;0.099;;;;1;TOPISA-PRET-M;;;NÃO;;;;;;;;;;34.95;
+top-isa;;;Cor;Preto;Tamanho;G;;;79.90;;0.099;;;;1;TOPISA-PRET-G;;;NÃO;;;;;;;;;;34.95;
+top-isa;;;Cor;Off White;Tamanho;P;;;79.90;;0.099;;;;1;TOPISA-OFFW-P;;;NÃO;;;;;;;;;;34.95;
+top-isa;;;Cor;Off White;Tamanho;M;;;79.90;;0.099;;;;1;TOPISA-OFFW-M;;;NÃO;;;;;;;;;;34.95;
+top-isa;;;Cor;Off White;Tamanho;G;;;79.90;;0.099;;;;1;TOPISA-OFFW-G;;;NÃO;;;;;;;;;;34.95;
+top-isa;;;Cor;Cinza Claro;Tamanho;P;;;79.90;;0.099;;;;1;TOPISA-CINZ-P;;;NÃO;;;;;;;;;;34.95;
+top-isa;;;Cor;Cinza Claro;Tamanho;M;;;79.90;;0.099;;;;1;TOPISA-CINZ-M;;;NÃO;;;;;;;;;;34.95;
+top-isa;;;Cor;Cinza Claro;Tamanho;G;;;79.90;;0.099;;;;1;TOPISA-CINZ-G;;;NÃO;;;;;;;;;;34.95;
+top-isa;;;Cor;Brownie;Tamanho;P;;;79.90;;0.099;;;;1;TOPISA-BROW-P;;;NÃO;;;;;;;;;;34.95;
+top-isa;;;Cor;Brownie;Tamanho;M;;;79.90;;0.099;;;;1;TOPISA-BROW-M;;;NÃO;;;;;;;;;;34.95;
+top-isa;;;Cor;Brownie;Tamanho;G;;;79.90;;0.099;;;;1;TOPISA-BROW-G;;;NÃO;;;;;;;;;;34.95;
+top-carla;Top Carla;Coleção 01 > Tops;Cor;Preto;Tamanho;P;;;79.90;;0.065;;;;1;TOPCARLA-PRET-P;;SIM;NÃO;"<p>Top frente única, feito pra treinar sem abrir mão do estilo.</p><p>Frente única e caimento que sustenta sem apertar; vai do treino ao café depois da aula.</p>";;Top Carla — Ordiné;Top frente única, feito pra treinar sem abrir mão do estilo.;Ordiné;SIM;;Feminino;Adulto;34.95;Visível
+top-carla;;;Cor;Preto;Tamanho;M;;;79.90;;0.065;;;;1;TOPCARLA-PRET-M;;;NÃO;;;;;;;;;;34.95;
+top-carla;;;Cor;Preto;Tamanho;G;;;79.90;;0.065;;;;1;TOPCARLA-PRET-G;;;NÃO;;;;;;;;;;34.95;
+top-carla;;;Cor;Off White;Tamanho;P;;;79.90;;0.065;;;;1;TOPCARLA-OFFW-P;;;NÃO;;;;;;;;;;34.95;
+top-carla;;;Cor;Off White;Tamanho;M;;;79.90;;0.065;;;;2;TOPCARLA-OFFW-M;;;NÃO;;;;;;;;;;34.95;
+top-carla;;;Cor;Off White;Tamanho;G;;;79.90;;0.065;;;;1;TOPCARLA-OFFW-G;;;NÃO;;;;;;;;;;34.95;
+top-carla;;;Cor;Cinza Claro;Tamanho;P;;;79.90;;0.065;;;;1;TOPCARLA-CINZ-P;;;NÃO;;;;;;;;;;34.95;
+top-carla;;;Cor;Cinza Claro;Tamanho;M;;;79.90;;0.065;;;;2;TOPCARLA-CINZ-M;;;NÃO;;;;;;;;;;34.95;
+top-carla;;;Cor;Cinza Claro;Tamanho;G;;;79.90;;0.065;;;;1;TOPCARLA-CINZ-G;;;NÃO;;;;;;;;;;34.95;
+top-carla;;;Cor;Brownie;Tamanho;P;;;79.90;;0.065;;;;1;TOPCARLA-BROW-P;;;NÃO;;;;;;;;;;34.95;
+top-carla;;;Cor;Brownie;Tamanho;M;;;79.90;;0.065;;;;2;TOPCARLA-BROW-M;;;NÃO;;;;;;;;;;34.95;
+top-carla;;;Cor;Brownie;Tamanho;G;;;79.90;;0.065;;;;1;TOPCARLA-BROW-G;;;NÃO;;;;;;;;;;34.95;
+cropped-manguinha;Cropped Manguinha;Coleção 01 > Croppeds;Cor;Preto;Tamanho;P;;;96.90;;0.126;;;;1;CROPPEDMAN-PRET-P;;SIM;NÃO;<p>Cropped manguinha, leve e confortável.</p><p>Mangas curtas e caimento solto na medida. Combina com o Short com Bolsos e com as calças da coleção.</p>;;Cropped Manguinha — Ordiné;Cropped manguinha, leve e confortável.;Ordiné;SIM;;Feminino;Adulto;42.00;Visível
+cropped-manguinha;;;Cor;Preto;Tamanho;M;;;96.90;;0.126;;;;2;CROPPEDMAN-PRET-M;;;NÃO;;;;;;;;;;42.00;
+cropped-manguinha;;;Cor;Preto;Tamanho;G;;;96.90;;0.126;;;;1;CROPPEDMAN-PRET-G;;;NÃO;;;;;;;;;;42.00;
+cropped-manguinha;;;Cor;Off White;Tamanho;P;;;96.90;;0.126;;;;1;CROPPEDMAN-OFFW-P;;;NÃO;;;;;;;;;;42.00;
+cropped-manguinha;;;Cor;Off White;Tamanho;M;;;96.90;;0.126;;;;2;CROPPEDMAN-OFFW-M;;;NÃO;;;;;;;;;;42.00;
+cropped-manguinha;;;Cor;Off White;Tamanho;G;;;96.90;;0.126;;;;1;CROPPEDMAN-OFFW-G;;;NÃO;;;;;;;;;;42.00;
+cropped-manguinha;;;Cor;Cinza Claro;Tamanho;P;;;96.90;;0.126;;;;1;CROPPEDMAN-CINZ-P;;;NÃO;;;;;;;;;;42.00;
+cropped-manguinha;;;Cor;Cinza Claro;Tamanho;M;;;96.90;;0.126;;;;1;CROPPEDMAN-CINZ-M;;;NÃO;;;;;;;;;;42.00;
+cropped-manguinha;;;Cor;Cinza Claro;Tamanho;G;;;96.90;;0.126;;;;1;CROPPEDMAN-CINZ-G;;;NÃO;;;;;;;;;;42.00;
+cropped-manguinha;;;Cor;Brownie;Tamanho;P;;;96.90;;0.126;;;;1;CROPPEDMAN-BROW-P;;;NÃO;;;;;;;;;;42.00;
+cropped-manguinha;;;Cor;Brownie;Tamanho;M;;;96.90;;0.126;;;;2;CROPPEDMAN-BROW-M;;;NÃO;;;;;;;;;;42.00;
+cropped-manguinha;;;Cor;Brownie;Tamanho;G;;;96.90;;0.126;;;;1;CROPPEDMAN-BROW-G;;;NÃO;;;;;;;;;;42.00;
+cropped-transpassado;Cropped Transpassado;Coleção 01 > Croppeds;Cor;Preto;Tamanho;Único;;;102.90;;0.210;;;;2;CROPPEDTRA-PRET-M;;SIM;NÃO;<p>Cropped transpassado, a peça coringa da coleção.</p><p>Corte transpassado que valoriza o corpo com delicadeza.</p>;;Cropped Transpassado — Ordiné;Cropped transpassado, a peça coringa da coleção.;Ordiné;SIM;;Feminino;Adulto;44.90;Visível
+cropped-transpassado;;;Cor;Off White;Tamanho;Único;;;102.90;;0.210;;;;2;CROPPEDTRA-OFFW-M;;;NÃO;;;;;;;;;;44.90;
+short-com-bolsos;Short com Bolsos;Coleção 01 > Shorts;Cor;Preto;Tamanho;P;;;102.90;;0.170;;;;1;SHORTCOMBO-PRET-P;;SIM;NÃO;<p>Short com bolsos, praticidade sem perder o estilo.</p><p>Bolsos funcionais pra chave, cartão e celular. Combina com os croppeds e tops da coleção.</p>;;Short com Bolsos — Ordiné;Short com bolsos, praticidade sem perder o estilo.;Ordiné;SIM;;Feminino;Adulto;44.90;Visível
+short-com-bolsos;;;Cor;Preto;Tamanho;M;;;102.90;;0.170;;;;2;SHORTCOMBO-PRET-M;;;NÃO;;;;;;;;;;44.90;
+short-com-bolsos;;;Cor;Preto;Tamanho;G;;;102.90;;0.170;;;;1;SHORTCOMBO-PRET-G;;;NÃO;;;;;;;;;;44.90;
+short-com-bolsos;;;Cor;Off White;Tamanho;P;;;102.90;;0.170;;;;2;SHORTCOMBO-OFFW-P;;;NÃO;;;;;;;;;;44.90;
+short-com-bolsos;;;Cor;Off White;Tamanho;M;;;102.90;;0.170;;;;2;SHORTCOMBO-OFFW-M;;;NÃO;;;;;;;;;;44.90;
+short-com-bolsos;;;Cor;Off White;Tamanho;G;;;102.90;;0.170;;;;1;SHORTCOMBO-OFFW-G;;;NÃO;;;;;;;;;;44.90;
+short-com-bolsos;;;Cor;Cinza Claro;Tamanho;P;;;102.90;;0.170;;;;1;SHORTCOMBO-CINZ-P;;;NÃO;;;;;;;;;;44.90;
+short-com-bolsos;;;Cor;Cinza Claro;Tamanho;M;;;102.90;;0.170;;;;1;SHORTCOMBO-CINZ-M;;;NÃO;;;;;;;;;;44.90;
+short-com-bolsos;;;Cor;Cinza Claro;Tamanho;G;;;102.90;;0.170;;;;1;SHORTCOMBO-CINZ-G;;;NÃO;;;;;;;;;;44.90;
+short-com-bolsos;;;Cor;Brownie;Tamanho;P;;;102.90;;0.170;;;;1;SHORTCOMBO-BROW-P;;;NÃO;;;;;;;;;;44.90;
+short-com-bolsos;;;Cor;Brownie;Tamanho;M;;;102.90;;0.170;;;;1;SHORTCOMBO-BROW-M;;;NÃO;;;;;;;;;;44.90;
+short-com-bolsos;;;Cor;Brownie;Tamanho;G;;;102.90;;0.170;;;;1;SHORTCOMBO-BROW-G;;;NÃO;;;;;;;;;;44.90;
+calca-basica;Calça Básica;Coleção 01 > Calças;Cor;Preto;Tamanho;P;;;125.90;;0.226;;;;1;CALCABASIC-PRET-P;;SIM;NÃO;<p>Calça básica, base de vários looks.</p><p>Cintura que sustenta, tecido encorpado e durável. Base de vários looks, do treino ao dia a dia.</p>;;Calça Básica — Ordiné;Calça básica, base de vários looks.;Ordiné;SIM;;Feminino;Adulto;54.90;Visível
+calca-basica;;;Cor;Preto;Tamanho;M;;;125.90;;0.226;;;;1;CALCABASIC-PRET-M;;;NÃO;;;;;;;;;;54.90;
+calca-basica;;;Cor;Preto;Tamanho;G;;;125.90;;0.226;;;;1;CALCABASIC-PRET-G;;;NÃO;;;;;;;;;;54.90;
+calca-basica;;;Cor;Cinza Claro;Tamanho;P;;;125.90;;0.226;;;;1;CALCABASIC-CINZ-P;;;NÃO;;;;;;;;;;54.90;
+calca-basica;;;Cor;Cinza Claro;Tamanho;M;;;125.90;;0.226;;;;1;CALCABASIC-CINZ-M;;;NÃO;;;;;;;;;;54.90;
+calca-basica;;;Cor;Cinza Claro;Tamanho;G;;;125.90;;0.226;;;;1;CALCABASIC-CINZ-G;;;NÃO;;;;;;;;;;54.90;
+calca-basica;;;Cor;Brownie;Tamanho;P;;;125.90;;0.226;;;;1;CALCABASIC-BROW-P;;;NÃO;;;;;;;;;;54.90;
+calca-basica;;;Cor;Brownie;Tamanho;M;;;125.90;;0.226;;;;1;CALCABASIC-BROW-M;;;NÃO;;;;;;;;;;54.90;
+calca-basica;;;Cor;Brownie;Tamanho;G;;;125.90;;0.226;;;;1;CALCABASIC-BROW-G;;;NÃO;;;;;;;;;;54.90;
+calca-flare;Calça Flare;Coleção 01 > Calças;Cor;Preto;Tamanho;P;;;160.90;;0.263;;;;1;CALCAFLARE-PRET-P;;SIM;NÃO;<p>Calça flare, elegante do treino ao fim de tarde.</p><p>Barra flare que alonga a silhueta sem perder o conforto pro movimento.</p>;;Calça Flare — Ordiné;Calça flare, elegante do treino ao fim de tarde.;Ordiné;SIM;;Feminino;Adulto;69.95;Visível
+calca-flare;;;Cor;Preto;Tamanho;M;;;160.90;;0.263;;;;1;CALCAFLARE-PRET-M;;;NÃO;;;;;;;;;;69.95;
+calca-flare;;;Cor;Preto;Tamanho;G;;;160.90;;0.263;;;;1;CALCAFLARE-PRET-G;;;NÃO;;;;;;;;;;69.95;
+calca-flare;;;Cor;Cinza Claro;Tamanho;P;;;160.90;;0.263;;;;1;CALCAFLARE-CINZ-P;;;NÃO;;;;;;;;;;69.95;
+calca-flare;;;Cor;Cinza Claro;Tamanho;M;;;160.90;;0.263;;;;2;CALCAFLARE-CINZ-M;;;NÃO;;;;;;;;;;69.95;
+calca-flare;;;Cor;Cinza Claro;Tamanho;G;;;160.90;;0.263;;;;1;CALCAFLARE-CINZ-G;;;NÃO;;;;;;;;;;69.95;
+calca-flare;;;Cor;Brownie;Tamanho;P;;;160.90;;0.263;;;;1;CALCAFLARE-BROW-P;;;NÃO;;;;;;;;;;69.95;
+calca-flare;;;Cor;Brownie;Tamanho;M;;;160.90;;0.263;;;;2;CALCAFLARE-BROW-M;;;NÃO;;;;;;;;;;69.95;
+calca-flare;;;Cor;Brownie;Tamanho;G;;;160.90;;0.263;;;;1;CALCAFLARE-BROW-G;;;NÃO;;;;;;;;;;69.95;
